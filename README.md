@@ -16,5 +16,5 @@ Hi, I'm Victor - a freelance **web developer** and has been professionally conne
 
 ## Thank You .. 💖 
 Thanks for visiting my profile. Also, find me around the web
-<!-- Website: <a href="https://victorrozario.dev/" target="_blank">victorrozario.dev</a> 🌏 -->
+- Website: <a href="https://victorrozario.dev/">victorrozario.dev</a> 🌏
 - Instagram: <a href="https://www.instagram.com/rozario96/">@rozario96</a> 📷 
