@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/rozario96/rozario96/blob/master/github-banner.png)
 
-Hi, I'm Victor - a freelance **web developer** and has been professionally connected with the web development industry and information technology for quite some time now.
+Hi, I'm Victor - a freelance **web developer** and have been professionally connected with the web development industry and information technology for quite some time now.
 
 ## I work with .. 🚀
 - HTML . CSS . JavaScript
