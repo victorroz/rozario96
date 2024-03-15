@@ -2,7 +2,7 @@
 
 <!-- icons  -->
 
-![alt text](https://github.com/rozario96/victorroz/blob/master/github-banner.png)
+![alt text](https://github.com/victorroz/victorroz/blob/master/github-banner.png)
 
 Hi, I'm Victor - a freelance **web developer** and have been professionally connected with the web development industry and information technology for quite some time now.
 
